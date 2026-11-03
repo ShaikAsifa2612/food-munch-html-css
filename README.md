@@ -6,7 +6,7 @@ A responsive static food website clone built with **HTML** and **CSS**, focused 
 
 ## Live Demo
 
-[View the live site](REPLACE_WITH_LIVE_LINK)
+[View the live site](https://food-munch-html-css.vercel.app)
 
 ## Features
 
