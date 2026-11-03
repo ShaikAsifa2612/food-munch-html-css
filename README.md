@@ -2,7 +2,7 @@
 
 A responsive static food website clone built with **HTML** and **CSS**, focused on a clean layout and a mobile-friendly design.
 
-![Food Munch Preview](assets/Food-Munch_image.png)
+![Food Munch Preview](assests/Food-Munch_image.png)
 
 ## Live Demo
 
